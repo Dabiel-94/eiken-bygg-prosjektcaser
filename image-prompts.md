@@ -39,3 +39,13 @@ Photorealistic architectural editorial photograph, landscape 3:2. Fictional cont
 ### assets/horten-facade.webp
 
 Photorealistic architectural editorial photograph, landscape 3:2. Fictional close-up exterior detail of a modest Scandinavian pine-clad cabin: precise vertical natural pine boards meeting a tall glass window with dark thin metal flashing, clean deep roof eaves and concealed shading slot, coastal pine trees reflected in glass. Soft daylight, close tactile architectural material study, plausible construction, no text logos or people. Fictional portfolio illustration, not engineering documentation.
+
+## Illustrasjoner til håndverkskapitlene
+
+### assets/husoy-framing.webp
+
+Landscape 3:2 photorealistic editorial architectural photograph of a fictional renovation in a 1930s Norwegian wooden house. Wide quiet empty interior room with exposed sound timber wall studs, carefully levelled new timber floor joists, original tall white window, daylight. Tidy professional renovation site, no people, no text, no logos. Warm natural timber tones, honest craftsmanship, tasteful building portfolio photograph. Not a before/after record and not technical installation instructions.
+
+### assets/husoy-heating.webp
+
+Landscape 3:2 photorealistic editorial photograph of a fictional Norwegian home renovation, low angled view across neatly laid underfloor hydronic heating tubes in grooved floor panels before the finished floor goes down. Tall window, unfinished light walls, soft daylight, orderly professional work, natural neutral palette. Plausible construction without diagram labels, no people, text, brands or logos. Illustrative portfolio photograph, not an actual project or technical installation guide.
