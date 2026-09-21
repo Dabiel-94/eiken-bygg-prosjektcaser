@@ -16,6 +16,10 @@ Omfang: Husøy og Horten, alle tre designretninger, samt felles styling på over
 | Middels | Flere designklasser kunne være aktive samtidig. | Kun valgt designretning er aktiv, så variantene ikke arver tilfeldige regler fra hverandre. |
 | Middels | Hurtiglagrede filer hadde tidligere gitt blanding av gammel og ny visning. | Nye versjonsnavn på CSS og JavaScript ved publisering. |
 
+## Tillegg: prosjektfakta
+
+De tidligere fire faktakolonnene og tre frittstående høydepunktene ga ulik rytme og ujevne innrykk. De er samlet i ett felt med overskrift, et jevnt 2 × 2-rutenett og tre justerte høydepunkter. Rutene har lik høyde og balansert linjebryting. På mobil legges høydepunktene under faktafeltet. Kontrollert på desktop og ved 390 px, også i designretning B.
+
 ## Kontroller
 
 - 320 px: ingen vannrett overløp, fast kontakt innenfor skjermbredden, all brødtekst synlig uten å vente på animasjon.
