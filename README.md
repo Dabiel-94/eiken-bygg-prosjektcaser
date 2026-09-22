@@ -21,3 +21,5 @@ UX: lett innfading ved skrolling, bildezoom med tastaturvennlig dialog, lesefrem
 Konverteringsgjennomgang: `optimization-review.md`. Fast kontaktknapp, kontaktanker til Henrik, kontaktpunkt midt i historien og galleri med tastaturbetjening.
 
 Kontaktutkastet har nå skjema med validering. Det oppretter en e-post i besøkendes e-postprogram; det sender ikke direkte og lagrer ikke data. Vedlegg legges til i e-posten. Ingen tilkobling til WordPress/Elementor er etablert.
+
+Herooppdatering 22. september: fullbredde bilde med mobilbeskjæring, kort tittel, tilgjengelig prosjektmeny og kontaktlenke. Intro og sammenligning av designretninger ligger under heroen. Fast kontakt kommer frem etter heroen. Redusert bevegelse respekteres.
